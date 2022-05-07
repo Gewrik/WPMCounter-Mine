@@ -1,11 +1,8 @@
 
 import java.time.LocalTime;
-
 import java.util.Random;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
-
-
 
 public class WPMProgramm {
   //Создаём список слов для теста
